@@ -3,9 +3,12 @@ main{
 
 }
 main section img.wppbanner{
+    max-width: 100vh;
+    max-height: 100vw;
+    padding: 0rem 8rem 0rem; 
+
     display: flex;
     align-items: center;
     justify-content: center;
-    max-width: 100vh;
-    max-height: 100vw;
+
 }
